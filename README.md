@@ -1,6 +1,7 @@
 # VoronTrident-Fysect
 Collection of mods, config and stuff used for my Voron Trident based on a Fysect Kit
-https://github.com/FYSETC/FYSETC-Voron-Trident
+[Github](https://github.com/FYSETC/FYSETC-Voron-Trident) / [AliExpress](https://s.click.aliexpress.com/e/_Dn2eU1b)    
+
 
 # PrusaSlicer Voron Trident   
 Current Slicer Profile  
