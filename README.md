@@ -14,6 +14,10 @@ Current Slicer Profile
   
 ![Inverted eBay](https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/LoganFraser/TridentInvertedElectronics/InvertedElectronics.png)
 
+# Klicky Probe  
+[Mod Page](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v1.8_v2.4_Legacy_Trident) 
+![Klicky](https://github.com/jlas1/Klicky-Probe/raw/main/Probes/KlickyProbe/Photos/KlickyProbe.png)  
+  
 # Lighting  
 [LED Strip Holder](https://www.printables.com/model/84735-led-strip-holder-for-voron-24)  
 [Corner LED Strip Holder](https://www.printables.com/model/426847-corner-led-strip-holder-for-voron-trident)  
