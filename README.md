@@ -1,5 +1,5 @@
 # VoronTrident-Fysect
-Collection of mods, config and stuff used for my Voron Trident based on a Fysect Kit
+Collection of mods, config and stuff used for my Voron Trident based on a Fysect Kit  
 [Github](https://github.com/FYSETC/FYSETC-Voron-Trident) / [AliExpress](https://s.click.aliexpress.com/e/_Dn2eU1b)    
 
 
