@@ -8,6 +8,7 @@ Inverted Electronics
 PrusaSlicer Voron Trident  
 Current Slicer Profile  
 [Trident Bed Model](https://github.com/supermerill/SuperSlicer/issues/2486)  
+![VT-Bed-Model](https://i.ibb.co/Xpnt8v7/VT-Bed-Model.png)  
 
 ADXL345 Mount for Measuring Resonances  
 [STL](https://cults3d.com/en/3d-model/tool/adxl345-mount-voron-2-4) / [Guide](https://www.klipper3d.org/Measuring_Resonances.html)  
