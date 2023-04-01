@@ -9,6 +9,7 @@ Current Slicer Profile
 
 # Inverted Electronics  
 [Mod Page](https://mods.vorondesign.com/detail/pXkXHVIUbqSWqQKJISczw)  
+  
 ![Inverted eBay](https://raw.githubusercontent.com/VoronDesign/VoronUsers/master/printer_mods/LoganFraser/TridentInvertedElectronics/InvertedElectronics.png)
 
 # Lighting  
