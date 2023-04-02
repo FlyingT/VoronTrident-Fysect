@@ -43,7 +43,7 @@ I used COB LEDs for their integrated diffuser and VERY high brightness
   
 ![Lighting](https://media.printables.com/media/prints/426847/images/3539749_340f9bce-ab00-4512-89be-99bcd81a7850/thumbs/inside/1920x1440/jpg/pxl_20230319_150441907_2.webp)  
 
-# AC bed Heater  
+# AC Bed Heater  
 
 
 # ADXL345 Mount for Measuring Resonances  
