@@ -35,13 +35,28 @@ For Printer Monitoring, the good old C270 just wont be able to show the whole pr
 ![Aukey](https://i.ibb.co/vxYG2pD/25-Cam.jpg)  
   
 # Lighting  
+I used COB LEDs for their integrated diffuser and VERY high brightness  
 [LED Strip Holder](https://www.printables.com/model/84735-led-strip-holder-for-voron-24)  
 [Corner LED Strip Holder](https://www.printables.com/model/426847-corner-led-strip-holder-for-voron-trident)  
+[COB LED Strip](https://amzn.to/3ZzY7Mb)  
   
 ![Lighting](https://media.printables.com/media/prints/426847/images/3539749_340f9bce-ab00-4512-89be-99bcd81a7850/thumbs/inside/1920x1440/jpg/pxl_20230319_150441907_2.webp)  
+
+# AC bed Heater  
+
 
 # ADXL345 Mount for Measuring Resonances  
   
 [STL](https://cults3d.com/en/3d-model/tool/adxl345-mount-voron-2-4) / [Guide](https://www.klipper3d.org/Measuring_Resonances.html)  
   
 ![ADXL345-Mount](https://i.ibb.co/YPFgRXh/ADXL345-Mount.png)  
+
+https://amzn.to/3ZxrrDe  
+https://amzn.to/3K30tO6  
+https://amzn.to/40S5ShB  
+https://amzn.to/3K30wcK  
+https://www.obi.de/terrassenplatten-gehwegplatten/gehwegplatte-grau-50-x-50-x-5-cm-mit-fase/p/6499172  
+https://amzn.to/3G9xIOD  
+https://www.ebay.de/itm/185357833067  
+
+
