@@ -1,5 +1,6 @@
 # Voron Trident - Fysect 300mm Kit
 Collection of mods, config and stuff used for my Voron Trident based on a Fysect Kit  
+You might find it useful for yourself :)  
 [Github](https://github.com/FYSETC/FYSETC-Voron-Trident) / [AliExpress](https://s.click.aliexpress.com/e/_Dn2eU1b)    
   
 ![Finished Build](https://i.ibb.co/qd2SQ5q/30-Printer.jpg)  
