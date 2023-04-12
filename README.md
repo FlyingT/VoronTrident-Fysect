@@ -19,7 +19,7 @@ Very useful for easy access without need to move the printer
 ![Inverted eBay](https://i.ibb.co/gwzf5RW/19-Electronics-4.jpg)
 
 # Klicky Probe  
-Replaces the Inductive Probe and Z-Endstop
+Replaces the Inductive Probe and Z-Endstop  
 [Mod Page](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v1.8_v2.4_Legacy_Trident)  
   
 ![Klicky](https://github.com/jlas1/Klicky-Probe/raw/main/Probes/KlickyProbe/Photos/KlickyProbe.png)  
