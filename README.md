@@ -45,7 +45,7 @@ I used COB LEDs for their integrated diffuser and VERY high brightness
 ![Lighting](https://media.printables.com/media/prints/426847/images/3539749_340f9bce-ab00-4512-89be-99bcd81a7850/thumbs/inside/1920x1440/jpg/pxl_20230319_150441907_2.webp)  
 
 # Spool Holder
-Had some spare 608 bearings and used them for a smoother holder
+Had some spare 608 bearings and used them for a smoother holder  
 [Mod Page](https://www.thingiverse.com/thing:2909802)
 
 ![image](https://cdn.thingiverse.com/renders/92/cd/2a/f6/55/55c8bff1c049667303077d1d80e8441e_display_large.jpg)
