@@ -54,7 +54,7 @@ Had some spare 608 bearings and used them for a smoother holder
   
 [STL](https://cults3d.com/en/3d-model/tool/adxl345-mount-voron-2-4) / [Guide](https://www.klipper3d.org/Measuring_Resonances.html)  
   
-![ADXL345-Mount](https://i.ibb.co/YPFgRXh/ADXL345-Mount.png)  
+![ADXL345-Mount](https://i.ibb.co/T22yVLg/34-ADXL345-Mount.jpg)  
 
 https://amzn.to/3ZxrrDe  
 https://amzn.to/3K30tO6  
