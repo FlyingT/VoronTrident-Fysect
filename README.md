@@ -46,9 +46,8 @@ I used COB LEDs for their integrated diffuser and VERY high brightness
 
 # Spool Holder
 Had some spare 608 bearings and used them for a smoother holder
-[Mod Page](https://www.thingiverse.com/thing:2909802 ![image](https://user-images.githubusercontent.com/52933805/236690357-0f41e537-3871-4b96-a19a-d4104088af71.png)
-
-
+[Mod Page](https://www.thingiverse.com/thing:2909802) 
+![image](https://cdn.thingiverse.com/renders/92/cd/2a/f6/55/55c8bff1c049667303077d1d80e8441e_display_large.jpg)
 
 # ADXL345 Mount for Measuring Resonances  
   
